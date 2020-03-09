@@ -4,7 +4,7 @@ This is an example of Exploratory Data Analysis (EDA) and some modeling .
 ## Problem Statement
 
 Photos team is interested in understanding their user base. To help explore this question,
-we have provided a sample dataset* of Photos App users. The dataset includes their feature 
+ a sample dataset of Photos App users used. The dataset includes their feature 
 usage as well as related information about the user and their device. All usage activity
 in the dataset is aggregated over a month for each user.
 We would like for you to use this data to help the team understand the different types of 
